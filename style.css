@@ -1,0 +1,13 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 20px;
+}
+ 
+.sticky{
+    position: sticky;
+    left: 300px;
+    top: 0;
+    bottom: 100px;
+}
